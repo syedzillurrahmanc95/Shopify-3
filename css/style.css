@@ -26,11 +26,10 @@ h1{
   font-weight: 900;
 }
 img{
-    max-width: 78%;
+    width: 300px;
     border-width: 5px;
     border-style: dashed;
     border-color: #fcd206;
-
 
 }
 .box p{
